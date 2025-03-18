@@ -3,8 +3,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "iker-package-calc"
-version = "0.0.3"
+name = "iker-package-calc-v2"
+version = "0.0.1"
 authors = [
     { name="Torponcito", email="ikermaria.estudios@gmail.com" },
 ]
@@ -23,5 +23,5 @@ classifiers = [
 "Bug Tracker" = "https://github.com/Torponcito/Package/issues"
 
 [tool.hatch.build.targets.wheel]
-packages = ["iker_package_calc"]
+packages = ["iker_package_calc-v2"]
 
