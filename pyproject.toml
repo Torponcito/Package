@@ -21,3 +21,7 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/Torponcito/Package"
 "Bug Tracker" = "https://github.com/Torponcito/Package/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["iker_package_calc"]
+
