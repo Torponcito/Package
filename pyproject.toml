@@ -23,5 +23,5 @@ classifiers = [
 "Bug Tracker" = "https://github.com/Torponcito/Package/issues"
 
 [tool.hatch.build.targets.wheel]
-packages = ["iker_package_calc-v2"]
+packages = ["iker_package_calc_v2"]
 
