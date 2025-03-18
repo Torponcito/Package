@@ -1,4 +1,4 @@
-from iker_package_calc.consts import PI
+from iker_package_calc.const import PI
 
 
 def sum(num1: float, num2: float) -> float:
