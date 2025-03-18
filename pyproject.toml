@@ -19,5 +19,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/Torponcito/Package/tree/main"
+"Homepage" = "https://github.com/Torponcito/Package"
 "Bug Tracker" = "https://github.com/albertorc87/subir-paquete-pypi/issues"
